@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../repos/odin-recipes"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "odin-recipes"
+	}
+}
